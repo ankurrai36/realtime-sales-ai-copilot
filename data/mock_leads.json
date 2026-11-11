@@ -1,0 +1,93 @@
+{
+  "OPP-10041": {
+    "opp_id": "OPP-10041",
+    "lead_name": "Dr. John Doe",
+    "program_name": "Executive Healthcare Leadership Programme",
+    "primary_phone": "+1-555-0141",
+    "email": "johndoe@apexmedical.org",
+    "stage": "Attempt to Contact",
+    "summaries": [
+      "Followed up regarding weekend executive schedule. Candidate is Medical Superintendent balancing hospital rounds; requested curriculum syllabus on clinical operations and finance modules."
+    ],
+    "call_history": [
+      {
+        "date": "2026-10-15 11:30",
+        "transcript": "[Customer [EN]]: Hello, yes, I inquired about the healthcare management programme last month. My hospital schedule has been quite demanding.\n[Me [EN]]: Completely understand, Dr. Doe. The upcoming intake features an updated weekend immersion format designed specifically for practicing clinicians."
+      }
+    ],
+    "message_history": [
+      {
+        "date": "2026-10-15 11:35",
+        "channel": "whatsapp",
+        "text": "Shared official executive brochure via WhatsApp."
+      }
+    ],
+    "total_reachouts": 2,
+    "consecutive_no_responses": 0,
+    "whatsapp_reachouts": 1,
+    "email_reachouts": 1,
+    "sms_reachouts": 0
+  },
+  "OPP-10042": {
+    "opp_id": "OPP-10042",
+    "lead_name": "Sarah Jenkins",
+    "program_name": "Applied Corporate Finance & FinTech Leadership",
+    "primary_phone": "+1-555-0142",
+    "email": "s.jenkins@apexglobalcorp.com",
+    "stage": "Contacted",
+    "summaries": [
+      "VP of Risk Analytics at Apex Global Corp. Target transition: Senior Director of Treasury & M&A. Seeking validation of algorithmic valuation and financial modeling modules."
+    ],
+    "call_history": [
+      {
+        "date": "2026-10-18 14:15",
+        "transcript": "[Customer [EN]]: I have 12 years in risk modeling and want to ensure the curriculum covers advanced corporate finance and AI-driven valuation.\n[Me [EN]]: Absolutely, Sarah. Modules 4 and 5 cover algorithmic valuation and cross-border M&A strategy with real-world deal simulations."
+      }
+    ],
+    "message_history": [],
+    "total_reachouts": 1,
+    "consecutive_no_responses": 0,
+    "whatsapp_reachouts": 0,
+    "email_reachouts": 1,
+    "sms_reachouts": 0
+  },
+  "OPP-10043": {
+    "opp_id": "OPP-10043",
+    "lead_name": "Michael Chang",
+    "program_name": "Global Strategy & Digital Transformation",
+    "primary_phone": "+1-555-0143",
+    "email": "mchang@nexusventures.io",
+    "stage": "Enquiry",
+    "summaries": [],
+    "call_history": [],
+    "message_history": [],
+    "total_reachouts": 0,
+    "consecutive_no_responses": 0,
+    "whatsapp_reachouts": 0,
+    "email_reachouts": 0,
+    "sms_reachouts": 0
+  },
+  "OPP-10044": {
+    "opp_id": "OPP-10044",
+    "lead_name": "Elena Rostova",
+    "program_name": "Chief Technology Officer Leadership Programme",
+    "primary_phone": "+1-555-0144",
+    "email": "elena.rostova@cloudscale.tech",
+    "stage": "Warm",
+    "summaries": [
+      "Head of Engineering at CloudScale. Expressed hesitation on program fees vs ROI. Walked through peer network caliber and alumni compensation trajectory."
+    ],
+    "call_history": [
+      {
+        "date": "2026-10-22 16:40",
+        "transcript": "[Customer [EN]]: The tuition is a significant investment for our personal professional development budget this quarter.\n[Me [EN]]: Understood, Elena. When anchored against executive leadership compensation and the direct mentorship from active CTOs, our alumni typically realize break-even within 8 to 14 months post-completion."
+      }
+    ],
+    "message_history": [],
+    "total_reachouts": 3,
+    "consecutive_no_responses": 0,
+    "whatsapp_reachouts": 1,
+    "email_reachouts": 1,
+    "sms_reachouts": 1
+  }
+}

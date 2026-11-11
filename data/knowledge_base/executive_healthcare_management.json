@@ -1,0 +1,31 @@
+{
+  "executive_healthcare_management": {
+    "program_name_full": "Executive Programme in Healthcare Management",
+    "institution": "Premier Management Institute",
+    "application_link": "https://portal.executive-education.org/admissions/healthcare-management",
+    "sales_ammunition": {
+      "target_audience": "Mid-to-senior healthcare leaders, surgeons, clinicians, hospital administrators, medical superintendents, and healthcare entrepreneurs. Cohort demographic represents 10-18 years average clinical and healthcare domain experience.",
+      "market_trends_and_pitch": "The healthcare and healthtech ecosystem is expanding rapidly with continuous digital health adoption, hospital accreditation rigor, and clinical AI implementation. Traditional clinical depth alone is no longer sufficient; executive clinicians need strategic acumen in operations, governance, and health economics.",
+      "career_outcomes": "Prepares clinical and operations leaders for C-suite roles such as Hospital Chief Executive Officer, Medical Director, and Chief Operating Officer with executive compensation multiples.",
+      "unique_selling_proposition": "Triple-accredited curriculum covering national health policy, hospital finance, digital health informatics, and clinical AI governance. Features executive alumni status and senior peer networking.",
+      "programme_logistics_and_certification": "12-month executive format with weekend live interactive masterclasses and campus immersions. Delivers an Executive Completion Certificate.",
+      "alumni_benefits": "Lifetime access to executive alumni portal, global networking directory, and industry research access."
+    },
+    "objection_handling": {
+      "no_time": "Designed specifically for busy clinicians. Interactive sessions are conducted on weekend mornings with continuous on-demand archive access to accommodate emergency hospital shift rotations.",
+      "no_background": "Curriculum provides foundational executive bridging modules in corporate healthcare finance, budgeting, and strategic leadership without requiring prior business degree prerequisites.",
+      "price": "Tuition represents high ROI when evaluated against executive leadership placement and career trajectory. Flexible installment schedules distribute costs across 4 milestones."
+    },
+    "detailed_modules": {
+      "Module 1: Strategic Health Systems & Governance": "Healthcare economics, public health policy frameworks, long-term strategic hospital planning, ethical compliance, and clinical AI strategy.",
+      "Module 2: Hospital Operations & Financial Management": "Healthcare financial modeling, departmental budgeting, procurement supply chain optimization, and clinical EHR health informatics.",
+      "Module 3: Integrative Capstone & Clinical Leadership": "Real-world hospital optimization capstone project, healthcare transformation strategy, and executive board governance."
+    },
+    "eligibility": "Graduation in Medicine (MBBS/BDS/BAMS) or Allied Healthcare/Biomedical Sciences with minimum 3-5 years professional experience in healthcare delivery or operations.",
+    "fee_details": {
+      "base_fee": "$7,500 / ₹ 6,00,000 + applicable taxes",
+      "application_fee": "$250 / ₹ 20,000",
+      "installments": "4 milestone installments across the 12-month academic duration."
+    }
+  }
+}

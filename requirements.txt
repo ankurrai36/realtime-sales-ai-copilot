@@ -1,0 +1,23 @@
+# Core Audio Acquisition & Digital Signal Processing (DSP)
+pyaudiowpatch>=0.2.12; platform_system == "Windows"
+pycaw>=20230407; platform_system == "Windows"
+comtypes>=1.2.0; platform_system == "Windows"
+numpy>=1.24.0
+
+# Speech-to-Text (ASR) Streaming Pipeline
+websocket-client>=1.6.0
+
+# Artificial Intelligence Brain & RAG Engine
+google-genai>=0.1.1
+
+# Headless & Visible Browser Automation (CDP Orchestration)
+playwright>=1.40.0
+
+# Workstation Graphical User Interface
+ttkbootstrap>=1.10.1
+pyperclip>=1.8.2
+
+# Configuration & Network Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+openpyxl>=3.1.0

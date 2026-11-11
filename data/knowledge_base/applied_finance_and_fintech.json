@@ -1,0 +1,28 @@
+{
+  "applied_finance_and_fintech": {
+    "program_name_full": "Executive Programme in Applied Finance & FinTech Leadership",
+    "institution": "Premier Institute of Management",
+    "application_link": "https://portal.executive-education.org/admissions/applied-finance",
+    "sales_ammunition": {
+      "target_audience": "Mid-to-senior corporate finance professionals, investment managers, treasury analysts, risk specialists, and banking executives aiming for CFO and VP Finance trajectories.",
+      "market_trends_and_pitch": "Corporate finance is undergoing profound transformation driven by algorithmic valuation, alternative lending models, digital payment rails, and AI-enabled financial risk infrastructure.",
+      "career_outcomes": "Prepares leaders for strategic roles including Chief Financial Officer, VP Treasury, Head of Mergers & Acquisitions, and Senior Risk Officer.",
+      "unique_selling_proposition": "Rigorous quantitative financial curriculum coupled with applied financial modeling, FinTech sandbox simulations, and executive peer cohorts."
+    },
+    "objection_handling": {
+      "no_time": "Executive weekend masterclasses structured to avoid disruption of quarterly financial reporting schedules.",
+      "price": "Calculated career break-even achieved within 12 months based on executive finance salary band increases."
+    },
+    "detailed_modules": {
+      "Module 1: Corporate Valuation & Financial Statements": "Advanced financial statement analysis, discounted cash flow modeling, multiple valuation, and distress prediction.",
+      "Module 2: Cross-Border M&A and Private Equity": "Deal structuring, leveraged buyouts, private equity investment theses, and post-merger integration.",
+      "Module 3: FinTech & Algorithmic Finance": "Decentralized finance architectures, machine learning in credit scoring, automated algorithmic trading, and regtech compliance."
+    },
+    "eligibility": "Bachelor's degree with strong quantitative aptitude and a minimum of 4 years experience in corporate finance, banking, or analytics.",
+    "fee_details": {
+      "base_fee": "$6,800 / ₹ 5,50,000 + applicable taxes",
+      "application_fee": "$250 / ₹ 20,000",
+      "installments": "3 structured installments across the program timeline."
+    }
+  }
+}

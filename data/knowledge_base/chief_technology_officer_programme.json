@@ -1,0 +1,28 @@
+{
+  "chief_technology_officer_programme": {
+    "program_name_full": "Chief Technology Officer Leadership Programme",
+    "institution": "Global Business & Technology Institute",
+    "application_link": "https://portal.executive-education.org/admissions/cto-programme",
+    "sales_ammunition": {
+      "target_audience": "Directors of Engineering, Vice Presidents of Technology, Principal Enterprise Architects, and Technical Product Executives aiming for the CTO or CIO executive suite.",
+      "market_trends_and_pitch": "Modern enterprises require technology leaders who combine architectural mastery with board-level financial literacy, cyber risk governance, and generative AI transformation strategy.",
+      "career_outcomes": "Transitions VP Engineering and Chief Architect practitioners into enterprise Chief Technology Officers commanding executive total compensation packages.",
+      "unique_selling_proposition": "Direct mentorship from active enterprise CTOs, board presentation simulations, and comprehensive executive business training."
+    },
+    "objection_handling": {
+      "no_time": "Asynchronous modular learning paired with high-impact live weekend strategic syncs designed specifically for active executive schedules.",
+      "price": "Anchored against typical executive executive compensation increases and executive retention packages."
+    },
+    "detailed_modules": {
+      "Module 1: Enterprise Technology Strategy & AI Transformation": "Cloud economics, modern microservices architectures, enterprise generative AI roadmap, and technical debt governance.",
+      "Module 2: Board Governance & Technology Finance": "CapEx vs OpEx technology budgeting, vendor contract negotiation, board reporting, and compliance.",
+      "Module 3: Executive Leadership & Culture": "Building globally distributed high-velocity engineering organizations, executive retention, and engineering leadership dynamics."
+    },
+    "eligibility": "Minimum 10 years of technology experience with at least 3 years in a formal engineering management or architectural leadership role.",
+    "fee_details": {
+      "base_fee": "$8,200 / ₹ 6,30,000 + applicable taxes",
+      "application_fee": "$300 / ₹ 25,000",
+      "installments": "Flexible quarterly executive installments."
+    }
+  }
+}

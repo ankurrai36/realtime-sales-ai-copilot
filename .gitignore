@@ -1,0 +1,44 @@
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+*.env.local
+
+# Application Logs & Diagnostics
+logs/
+*.log
+call_logs/
+diagnostic_reports/
+
+# Active Leads & Local Working State
+data/active_*.json
+data/leads_database.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Browser & Automation Profiles
+LocalCDPProfiles/
+CDPProfiles/
+C:\ChromeDebug
+C:\CQ_Debug
+C:\ChromeGemini
